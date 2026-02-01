@@ -114,7 +114,7 @@ export default function Footer() {
                                     <i className="flaticon-calendar" />
                                   </div>
                                   <span>
-                                    <Link to="/">Dec 27, 2023</Link>
+                                    <Link to="/">Feb 2, 2026</Link>
                                   </span>
                                 </li>
                               </ul>
