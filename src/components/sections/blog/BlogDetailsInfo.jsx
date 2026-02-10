@@ -38,7 +38,7 @@ export default function BlogDetailsInfo() {
                           <i className="flaticon-calendar" />
                         </div>
                         <span>
-                          <a href="#">October 2, 2023</a>
+                          <a href="#">February 2, 2026</a>
                         </span>
                       </li>
                       <li>
