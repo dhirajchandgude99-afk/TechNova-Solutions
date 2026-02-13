@@ -24,7 +24,7 @@ export default function Footer() {
               <div className="footer-widget">
                 <div className="footer-widget-logo">
                   <Link to="/">
-                    <img src="/images/logo/tns-logo.jpeg" alt="TNS-logo" width={120} height={70} />
+                    <img src="/images/logo/tns-logo.jpeg" alt="TNS-logo" width={120} height={100} />
                   </Link>
                 </div>
                 <div className="footer-widget-content">
