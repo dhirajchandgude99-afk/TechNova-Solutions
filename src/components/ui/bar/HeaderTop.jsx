@@ -8,12 +8,12 @@ const headerList = [
   {
     icon: "flaticon-gmail-logo",
     name: "support@vibeinscript.com",
-    url: "mailto:yourmail@email.com",
+    url: "mailto:support@vibeinscript.com",
   },
   {
     icon: "flaticon-call",
-    name: "+91 1234567890",
-    url: "tel:123456789",
+    name: "+91 9423788706",
+    url: "tel:9423788706",
   },
 ];
 
