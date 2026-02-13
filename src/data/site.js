@@ -6,12 +6,12 @@ export const services = [
 ];
 
 export const services_2 = [
-    { imgUrl: "https://images.unsplash.com/photo-1552664730-d307ca884978", icon: "flaticon-content-management", title: "Content Management", brief: "We focus on the best practices it solutions and for services." },
-    { imgUrl: "https://images.unsplash.com/photo-1563986768609-322da13575f3", icon: "flaticon-security", title: "Information Security", brief: "We focus on the best practices it solutions and for services." },
-    { imgUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97", icon: "flaticon-software-development", title: "Software Development", brief: "We focus on the best practices it solutions and for services." },
-    { imgUrl: "https://images.unsplash.com/photo-1552664730-d307ca884978", icon: "flaticon-content-management", title: "Content Management", brief: "We focus on the best practices it solutions and for services." },
-    { imgUrl: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449", icon: "flaticon-bullhorn", title: "Digital Marketing", brief: "We focus on the best practices it solutions and for services." },
-    { imgUrl: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40", icon: "flaticon-technical-support", title: "Tech Support Pro", brief: "We focus on the best practices it solutions and for services." },
+    { imgUrl: "https://images.unsplash.com/photo-1552664730-d307ca884978", icon: "flaticon-content-management", title: "Web Development", brief: "Modern, responsive websites designed for speed and user experience. Helping businesses grow online." },
+    { imgUrl: "https://images.unsplash.com/photo-1563986768609-322da13575f3", icon: "flaticon-security", title: "App Development", brief: "High-performance mobile apps for Android and iOS. Seamless, secure, and user-friendly solutions." },
+    { imgUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97", icon: "flaticon-software-development", title: "Software Development", brief: "Custom software solutions built for performance and scalability. Secure, reliable, and tailored to your business needs." },
+    { imgUrl: "https://images.unsplash.com/photo-1552664730-d307ca884978", icon: "flaticon-content-management", title: "Cloud Deployment", brief: "We help businesses deploy applications on leading cloud platforms like AWS, Azure, and Google Cloud." },
+    { imgUrl: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449", icon: "flaticon-bullhorn", title: "DevOps & CI/CD Setup", brief: "Automated CI/CD pipelines for faster and error-free releases. Improving development efficiency and deployment speed." },
+    { imgUrl: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40", icon: "flaticon-technical-support", title: "AI & ML Development", brief: "Smart AI-powered solutions for automation and data insights. Transforming business with intelligent technology." },
 ];
 
 export const services_3 = [
@@ -109,11 +109,11 @@ export const faq = [
 ];
 
 export const service_list = [
-    { name: "Content Management", url: "/service-details" },
-    { name: "Information Security", url: "/service-details" },
+    { name: "Web Development", url: "/service-details" },
+    { name: "App Development", url: "/service-details" },
     { name: "Software Development", url: "/service-details" },
-    { name: "Web Analysis", url: "/service-details" },
-    { name: "Digital Marketing", url: "/service-details" },
-    { name: "Tech Support Pro", url: "/service-details" },
+    { name: "Cloud Deployment", url: "/service-details" },
+    { name: "DevOps & CI/CD Setup", url: "/service-details" },
+    { name: "AI & ML Development", url: "/service-details" },
 ];
 
