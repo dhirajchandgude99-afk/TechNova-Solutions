@@ -5,7 +5,7 @@ import CompanyInfo from "../../components/sections/companyInfo/CompanyInfo";
 import Hero from "../../components/sections/hero/Hero";
 import LatestBlog from "../../components/sections/latestBlog/LatestBlog";
 import Newslatter from "../../components/sections/newsletter/Newsletter";
-import Pricing from "../../components/sections/pricing/Pricing";
+// import Pricing from "../../components/sections/pricing/Pricing";
 import Project from "../../components/sections/project/Project";
 import Service from "../../components/sections/service/Service";
 import Testimonial from "../../components/sections/testimonial/Testimonial";
@@ -20,7 +20,7 @@ export default function HomePage() {
       <Project />
       <Business />
       <CompanyInfo />
-      <Pricing />
+      {/* <Pricing /> */}
       <Brand />
       <Testimonial />
       <LatestBlog bg_color="bg-light-greem" />
