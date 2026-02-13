@@ -20,7 +20,7 @@ export default function TeamPage() {
     <>
       <BreadCrumb data={breadcumb_data} />
       <TeamInfo />
-      <NewslatterStyle3 bg_color="bg-light-greem" />
+      <NewslatterStyle3 bg_color="bg-light-brown" />
     </>
   );
 }
