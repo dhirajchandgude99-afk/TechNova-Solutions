@@ -43,12 +43,12 @@ const App = () => {
           {/* <Route path="/faqs" element={<FaqsPage />} /> */}
           <Route path="*" element={<NotFoundPage />} />
         </Route>
-        <Route path="/home-2" element={<LayoutStyle2 />}>
+        {/* <Route path="/home-2" element={<LayoutStyle2 />}>
           <Route index element={<HomePageStyle2 />} />
         </Route>
         <Route path="/home-3" element={<LayoutStyle3 />}>
           <Route index element={<HomePageStyle3 />} />
-        </Route>
+        </Route> */}
       </Routes>
     </BrowserRouter>
   );
