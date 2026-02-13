@@ -1,4 +1,4 @@
-import Faq from "../../components/sections/faq/Faq";
+// import Faq from "../../components/sections/faq/Faq";
 import Newslatter from "../../components/sections/newsletter/Newsletter";
 import NewslatterStyle3 from "../../components/sections/newsletter/NewsletterStyle3";
 // import Pricing from "../../components/sections/pricing/Pricing";
