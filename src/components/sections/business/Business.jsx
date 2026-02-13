@@ -24,7 +24,7 @@ export default function Business() {
             <div className="sec-content h-100 d-flex justify-content-center flex-column">
               <h6 className="sec-sub-title">Buisness Process</h6>
               <h2 className="sec-title">
-                Easy Way Build Success your Buisness Pla
+                Easy Way Build Success your Buisness Plan
               </h2>
               <p className="sec-text">
                 Solve Business Problems And Automate Workflows With Artificial
