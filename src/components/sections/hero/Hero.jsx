@@ -30,11 +30,11 @@ export default function Hero() {
                   IT solutions for the new era
                 </span>
                 <h1 className="hero-title text-white">
-                  Beautiful IT services for your success
+                  Transforming Ideas Into Powerful Digital Solutions
                 </h1>
                 <p className="text-white">
-                  Leverage agile frameworks to provide a robust synopsis for
-                  high level overviews terative approaches bring table survival.
+                  We design, build, and deploy scalable software, cloud infrastructure,
+                  and automation systems that help businesses grow faster and smarter.
                 </p>
                 <div className="hero-btn-area d-flex align-items-center">
                   <Link to="/about" className="thm-btn">
