@@ -71,13 +71,13 @@ export const footer_blogs = [
     {
         imgUrl: "/images/blog/recent1.png",
         title: "Efficiency redefined through technology.",
-        date: "Thu Jul 27 2023 00:16:40 GMT+0000",
+        date: "Thu Jan 26 2026 00:16:40 GMT+0000",
         url: 'blog-details'
     },
     {
         imgUrl: "/images/blog/recent2.png",
         title: "IT Solution for your Company.",
-        date: "Wed Dec 27 2023 00:16:40 GMT+0000",
+        date: "Wed Jan 27 2026 00:16:40 GMT+0000",
         url: 'blog-details'
     },
 ];
