@@ -28,7 +28,7 @@ export default function Header2() {
                         <img
                           src="/images/logo/tns-logo.jpeg"
                           alt="TNS-logo"
-                          height={40}
+                          height={80}
                           width={105}
                         />
                       </Link>
@@ -54,7 +54,7 @@ export default function Header2() {
                                 <img
                                   src="/images/logo/tns-logo.jpeg"
                                   alt="TNS-logo"
-                                  height={50}
+                                  height={80}
                                   width={105}
                                 />
                               </Link>
