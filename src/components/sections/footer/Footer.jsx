@@ -29,9 +29,9 @@ export default function Footer() {
                 </div>
                 <div className="footer-widget-content">
                   <p className="ft-text">
-                    Mauris ut enim sit amet lacus ornare ullamcor. Praesent
-                    placerat nequ puru rhoncu tincidunt odio ultrices. Sed odio
-                    feugiat feugiat felis.
+                   Empowering businesses with innovative IT consulting, software development,
+                   and digital transformation services. We deliver scalable and secure technology
+                    solutions tailored to your needs.
                   </p>
                   <div className="footer-social">
                     <div className="footer-social-icon d-flex">
