@@ -24,7 +24,7 @@ export default function BlogRecentPost() {
                       </div>
                       <span>
                         <Link to="#" className="c-black">
-                          Oct 2, 2023
+                          Jan 2, 2026
                         </Link>
                       </span>
                     </li>
