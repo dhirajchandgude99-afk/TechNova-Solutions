@@ -94,12 +94,12 @@ export const blogs_2 = [
 ];
 
 export const teams = [
-    { title: "Edoardo Romussi", category: "Ui/Ux Designer", imgUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&q=80&fm=jpg" },
-    { title: "Jessica James", category: "Marketing Coordinator", imgUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=500&fit=crop&q=80&fm=jpg" },
-    { title: "Adrian Williams", category: "Web Designer", imgUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=500&fit=crop&q=80&fm=jpg" },
+    { title: "Omkar Pagade", category: "Full Stack Developer", imgUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&q=80&fm=jpg" },
+    { title: "Tushar Jadhav", category: "AI/ML Developer", imgUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=500&fit=crop&q=80&fm=jpg" },
+    { title: "Sagar Chandgude", category: "Devops Engineer", imgUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=500&fit=crop&q=80&fm=jpg" },
     { title: "Laci Pletcher", category: "Process Analyst", imgUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=500&fit=crop&q=80&fm=jpg" },
-    { title: "Alex Brown", category: "Co-Founder", imgUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330" },
-    { title: "Rebecca Davis", category: "Web Developer", imgUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&q=80&fm=jpg" },
+    { title: "Nikhil Dhage", category: "Backend Developer", imgUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330" },
+    { title: "Kundun Kumar", category: "Full Stack Developer", imgUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&q=80&fm=jpg" },
 ];
 
 export const faq = [
