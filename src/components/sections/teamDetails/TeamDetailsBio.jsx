@@ -61,15 +61,15 @@ export default function TeamDetailsBio() {
               data-wow-delay="500ms"
               data-wow-duration="1500ms"
             >
-              <h2 className="sec-title">Edoardo Romussi</h2>
-              <h4 className="member-title">Marketing Coordinator</h4>
+              <h2 className="sec-title">Gaurav Suneja</h2>
+              <h4 className="member-title">Software Developer</h4>
               <p className="mb-3">
-                My name is Edoardo Romussi. In my 6 years of work experience in
-                SEO, I have gain designed digital experiences.
+                My name is Gaurav Suneja. In my 6 years of work experience in
+                Development, I have gain designed digital experiences.
               </p>
               <p>
                 My motivation has always been to understand and We from people,
-                which is why in my professional development, I havefocused for
+                which is why in my professional development, I have focused for
                 my attention on working experience design.
               </p>
               <div className="member-social">
