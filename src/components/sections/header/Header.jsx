@@ -72,7 +72,7 @@ export default function Header() {
                             </div>
                             <div className="btn-box">
                               <Link className="thm-btn" to="/contact">
-                                <span className="txt">Get A Free Quote</span>
+                                <span className="txt">Get Started</span>
                               </Link>
                             </div>
                           </div>
