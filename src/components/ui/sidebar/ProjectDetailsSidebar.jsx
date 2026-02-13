@@ -36,7 +36,7 @@ export default function ProjectDetailsSidebar() {
           </div>
           <div className="qinfo-box">
             <h5>Location</h5>
-            <Link to="/">7 Green Lake Street Crawfordsville, IN 47933</Link>
+            <Link to="/">H.NO 711, Loni Kalbhor, Haveli, Pune, Maharashtra. Pin-412201</Link>
           </div>
         </div>
         <div className="qinfo-item">
@@ -46,8 +46,8 @@ export default function ProjectDetailsSidebar() {
           </div>
           <div className="qinfo-box">
             <h5>Call Now</h5>
-            <Link to="tel:+1801.234.5678">+1801.234.5678</Link>
-            <Link to="tel:+1784.386.8687">+1784.386.8687</Link>
+            <Link to="tel:+1801.234.5678">+91 9423788706</Link>
+            <Link to="tel:+1784.386.8687">+91 9423788706</Link>
           </div>
         </div>
         <div className="qinfo-item mb-0">
@@ -57,8 +57,8 @@ export default function ProjectDetailsSidebar() {
           </div>
           <div className="qinfo-box">
             <h5>Email Us</h5>
-            <Link to="mailto:mehedi@company.com">mehedi@company.com</Link>
-            <Link to="mailto:info@company.com">info@company.com</Link>
+            <Link to="mailto:mehedi@company.com">support@vibeinscript.com</Link>
+            <Link to="mailto:info@company.com">support@vibeinscript.com</Link>
           </div>
         </div>
       </div>
