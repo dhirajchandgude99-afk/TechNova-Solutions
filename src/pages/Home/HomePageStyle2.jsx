@@ -1,6 +1,6 @@
 import AboutStyle2 from "../../components/sections/about/AboutStyle2";
 import Brand from "../../components/sections/brand/Brand";
-import Faq from "../../components/sections/faq/Faq";
+// import Faq from "../../components/sections/faq/Faq";
 import HeroStyle2 from "../../components/sections/hero/HeroStyle2";
 import LatestBlog from "../../components/sections/latestBlog/LatestBlog";
 import NewslatterStyle2 from "../../components/sections/newsletter/NewsletterStyle2";
@@ -23,7 +23,7 @@ const HomePageStyle2 = () => {
       <ProjectStyle2 data={projects} />
       <Team />
       <Brand />
-      <Faq />
+      {/* <Faq /> */}
       <TestimonialStyle2 />
       <LatestBlog />
       <NewslatterStyle3 />
