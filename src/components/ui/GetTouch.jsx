@@ -47,7 +47,7 @@ export default function GetTouch() {
           <div className="qinfo-box">
             <h5>Call Now</h5>
             <Link to="tel:+91 9423788706">+91 9423788706</Link>
-            <Link to="tel:+91 9423788706">+91 9423788706</Link>
+            
           </div>
         </div>
         <div className="qinfo-item mb-0">
