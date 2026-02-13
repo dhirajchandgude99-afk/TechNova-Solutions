@@ -25,9 +25,9 @@ export default function HeaderStyle3() {
                     <div className="site-ligo">
                       <Link to="/home-2">
                         <img
-                          src="/images/logo/tns-logo.svg"
+                          src="/images/logo/tns-logo.jpeg"
                           alt="TNS-logo"
-                          height={40}
+                          height={80}
                           width={105}
                         />
                       </Link>
@@ -48,9 +48,9 @@ export default function HeaderStyle3() {
                             <div className="site-ligo d-flex align-items-center">
                               <Link to="/home-2">
                                 <img
-                                  src="/images/logo/tns-logo.svg"
+                                  src="/images/logo/tns-logo.jpeg"
                                   alt="TNS-logo"
-                                  height={40}
+                                  height={80}
                                   width={105}
                                 />
                               </Link>
@@ -68,7 +68,7 @@ export default function HeaderStyle3() {
                             </div>
                             <div className="btn-box">
                               <Link className="thm-btn" to="/contact">
-                                <span className="txt">Get A Free Quote</span>
+                                <span className="txt">Get Started</span>
                               </Link>
                             </div>
                           </div>
