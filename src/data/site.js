@@ -58,8 +58,8 @@ export const prices = [
      { planeName: "Custom", price: 310 } ];
 
 export const testimonials = [
-    { name: "Joshua Liddell", title: "Company Owner", imgUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d" },
-    { name: "Arush Aggarwal", title: "Senior Manager", imgUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e" },
+    { name: "Mayur Dhamne", title: "Company Owner", imgUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d" },
+    { name: "Suraj Kale", title: "Senior Manager", imgUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e" },
     { name: "Rosy Flower Gaggero", title: "Ceo And Founder", imgUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80" },
     { name: "Marcus Johnson", title: "IT Director", imgUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e" },
     { name: "Sarah Williams", title: "Tech Lead", imgUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330" },
