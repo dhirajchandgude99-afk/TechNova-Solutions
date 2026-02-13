@@ -43,25 +43,26 @@ export default function About() {
             <div className="sec-content">
               <h6 className="sec-sub-title">About Your Company</h6>
               <h2 className="sec-title">
-                We Execute Our ideas From The Start to Finish
+                VibeInScript Tech Innovation LLP is a modern technology company focused on delivering reliable,
+                scalable, and innovative digital solutions.
               </h2>
               <p className="sec-text">
-                Solve Business Problems And Automate Workflows With Artificial
-                Work Intelligence-Based Solutions. Unlock The Hidden Power Of
-                The Data You Already Have And Hand Hampers The Creativity.
+                We help startups, small businesses, and enterprises turn their ideas
+                into production-ready applications using cutting-edge technologies
+                like Cloud Computing, DevOps, Web Development, and Automation.
               </p>
               <ul className="sec-list-item">
                 <li>
                   <i className="fa-solid fa-square-check" />
-                  Development of Financial Models
+                   Build smart systems that save time.
                 </li>
                 <li>
                   <i className="fa-solid fa-square-check" />
-                  Nifty team is a diverse network of consultants
+                   Reduce costs.
                 </li>
                 <li>
                   <i className="fa-solid fa-square-check" />
-                  Industry professionals with a global mindset
+                   Drive growth.
                 </li>
               </ul>
               <div className="sec-btn">
