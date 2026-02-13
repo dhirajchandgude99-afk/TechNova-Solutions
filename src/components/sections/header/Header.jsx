@@ -54,7 +54,7 @@ export default function Header() {
                                 <img
                                   src="/images/logo/tns-logo.jpeg"
                                   alt="TNS-logo"
-                                  height={40}
+                                  height={60}
                                   width={105}
                                 />
                               </Link>
