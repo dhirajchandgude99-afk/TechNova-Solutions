@@ -48,7 +48,7 @@ export default function LatestBlog({ bg_color }) {
                         <i className="flaticon-calendar" />
                       </div>
                       <span>
-                        <Link to="#">October 2, 2023</Link>
+                        <Link to="#">Feb 2, 2026</Link>
                       </span>
                     </li>
                   </ul>
@@ -96,7 +96,7 @@ export default function LatestBlog({ bg_color }) {
                               <i className="flaticon-calendar" />
                             </div>
                             <span>
-                              <Link to="#">Dec 27, 2023</Link>
+                              <Link to="#">Jan 26, 2026</Link>
                             </span>
                           </li>
                         </ul>
