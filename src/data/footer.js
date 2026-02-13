@@ -4,7 +4,7 @@ export const social_links = [
         icon: "fa-brands fa-facebook-f",
     },
     {
-        url: "https://www.linkedin.com/",
+        url: "https://www.linkedin.com/company/vibeinscript-tech-innovation-llp/",
         icon: "fa-brands fa-linkedin-in",
     },
     {
