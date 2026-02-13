@@ -17,7 +17,7 @@ const socialLinks = [
   },
   {
     icon: "fab fa-linkedin-in",
-    url: "https://linkedin.com",
+    url: "https://www.linkedin.com/company/vibeinscript-tech-innovation-llp/",
   },
   {
     icon: "fab fa-youtube",
@@ -116,7 +116,7 @@ export default function SidebarNavigation({ toggleSidebar, isOpen }) {
                 <i className="flaticon-call" />
               </div>
               <p>
-                <Link to="tel:123456789">(629) 555-0129</Link>
+                <Link to="tel:+91 9423788706">(+91) 9423788706</Link>
               </p>
             </div>
             {/* contact part end */}
