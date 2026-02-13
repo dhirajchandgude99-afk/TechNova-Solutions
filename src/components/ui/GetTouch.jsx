@@ -24,7 +24,7 @@ export default function GetTouch() {
     <div className="sec-content">
       <h2 className="sec-title">Get In Touch</h2>
       <p>
-        These are the phrases we stay via way of means of in the whole lotwe do.
+        These are the phrases we stay via way of means of in the whole lot we do.
         Each brand we build, and we create.
       </p>
       <div className="get-in-touch">
