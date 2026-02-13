@@ -52,7 +52,7 @@ export default function Header() {
                             <div className="site-ligo d-flex align-items-center">
                               <Link to="/">
                                 <img
-                                  src="/images/logo/tns-logo.svg"
+                                  src="/images/logo/tns-logo.jpeg"
                                   alt="TNS-logo"
                                   height={40}
                                   width={105}
