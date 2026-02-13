@@ -52,10 +52,10 @@ export const projects_3 = [
     { imgUrl: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40", title: "IT Support", category: "Portfolio Home - Futuristic" },
 ];
 
-// export const prices = [
-//      { planeName: "Basic Plan", price: 110 },
-//      { planeName: "Popular", price: 210 },
-//      { planeName: "Custom", price: 310 } ];
+export const prices = [
+     { planeName: "Basic Plan", price: 110 },
+     { planeName: "Popular", price: 210 },
+     { planeName: "Custom", price: 310 } ];
 
 export const testimonials = [
     { name: "Joshua Liddell", title: "Company Owner", imgUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d" },
