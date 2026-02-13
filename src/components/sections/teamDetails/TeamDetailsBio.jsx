@@ -47,7 +47,7 @@ export default function TeamDetailsBio() {
               data-wow-duration="1500ms"
             >
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=400&fit=crop"
+                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=200&fit=crop"
                 alt="member"
                 className="h-100"
                 width={150}
