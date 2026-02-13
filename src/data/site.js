@@ -1,8 +1,8 @@
 export const services = [
-    { icon: "flaticon-software-development", title: "Software Development", brief: "Indeed vanity excuse or mr lovers of on.", url: "/service-details" },
-    { icon: "flaticon-dashboard", title: "Data Analysis", brief: "Indeed vanity excuse or mr lovers of on.", url: "/service-details" },
-    { icon: "flaticon-app-development", title: "App Development", brief: "Indeed vanity excuse or mr lovers of on.", url: "/service-details" },
-    { icon: "flaticon-software-development", title: "Software Development", brief: "Indeed vanity excuse or mr lovers of on.", url: "/service-details" },
+    { icon: "flaticon-software-development", title: " Cloud & DevOps Solutions", brief: "Build, deploy, and scale applications with modern cloud infrastructure.", url: "/service-details" },
+    { icon: "flaticon-dashboard", title: "Web Application Development", brief: "High-performance, responsive, and secure web applications.", url: "/service-details" },
+    { icon: "flaticon-app-development", title: "Automation & Deployment", brief: "Reduce manual work with intelligent automation..", url: "/service-details" },
+    { icon: "flaticon-software-development", title: "Software Consulting", brief: "Expert guidance to choose the right tech stack.", url: "/service-details" },
 ];
 
 export const services_2 = [
