@@ -10,9 +10,9 @@ export default function TestimonialCard({ data }) {
           <i className="flaticon-star" />
         </div>
         <p className="comment">
-          “I requested a UI update gig and received job excellent from Maria!
-          talented young UI/UX designer who will beat your expectation! and
-          quick feedback. Will definitely work with again!”
+          "The VibeInScript Technology delivered exactly what our business needed.
+           Their IT consulting approach was structured, professional, and result-oriented.
+           The team understood our requirements quickly and provided scalable solutions. Highly recommended!"
         </p>
       </div>
       <div className="customar-info">
