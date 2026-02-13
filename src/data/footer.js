@@ -53,18 +53,18 @@ export const useful_links = [
         name: "Our Projects",
         url: "/projects",
     },
-    {
-        name: "Faq ask",
-        url: "/faqs",
-    },
+    // {
+    //     name: "Faq ask",
+    //     url: "/faqs",
+    // },
     {
         name: "Contact Us",
         url: "/contact",
     },
-    {
-        name: "Blog",
-        url: "/blog",
-    },
+    // {
+    //     name: "Blog",
+    //     url: "/blog",
+    // },
 ];
 
 export const footer_blogs = [
