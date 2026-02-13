@@ -20,7 +20,7 @@ export default function BlogComment() {
               <h4 className="name">Brooklyn Simmons</h4>
               <span className="commented-on">
                 <i className="flaticon-calendar" />
-                28 April, 2023
+                28 Jan, 2026
               </span>
               <p className="text">
                 There are many different types of roofing materials to choose
@@ -51,7 +51,7 @@ export default function BlogComment() {
                   <h4 className="name">Marvin McKinney</h4>
                   <span className="commented-on">
                     <i className="flaticon-calendar" />
-                    20 October, 2023
+                    20 Jan, 2026
                   </span>
                   <p className="text">
                     Is a statement that highlights the importance of providing
@@ -84,7 +84,7 @@ export default function BlogComment() {
               <h4 className="name">Ronald Richards</h4>
               <span className="commented-on">
                 <i className="flaticon-calendar" />
-                06 June, 2023
+                20 Jan, 2026
               </span>
               <p className="text">
                 There are many different types of roofing materials to choose
