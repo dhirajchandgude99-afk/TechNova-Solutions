@@ -19,11 +19,11 @@ export const social_links = [
 
 export const service_links = [
     {
-        name: "Tech Solutions",
+        name: "Software Development",
         url: "/service-details",
     },
     {
-        name: " Digital Marketing",
+        name: "App Development",
         url: "/service-details",
     },
     {
@@ -31,11 +31,11 @@ export const service_links = [
         url: "/service-details",
     },
     {
-        name: "IT Consulting",
+        name: "AI/ML Development",
         url: "/service-details",
     },
     {
-        name: "Data Analytics",
+        name: "Cloud Deployment",
         url: "/service-details",
     },
 ];
