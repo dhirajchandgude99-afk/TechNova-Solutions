@@ -28,7 +28,7 @@ export default function BlogCard({ data }) {
                 <i className="flaticon-calendar" />
               </div>
               <span>
-                <a href="#">October 2, 2023</a>
+                <a href="#">January 25, 2026</a>
               </span>
             </li>
           </ul>
