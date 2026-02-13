@@ -7,7 +7,7 @@ const headerList = [
   },
   {
     icon: "flaticon-gmail-logo",
-    name: "technova@gmail.com",
+    name: "support@vibeinscript.com",
     url: "mailto:yourmail@email.com",
   },
   {
