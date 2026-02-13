@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import Layout from "./components/layout/Layout";
 import LayoutStyle2 from "./components/layout/LayoutStyle2";
 import LayoutStyle3 from "./components/layout/LayoutStyle3";
@@ -32,8 +32,8 @@ const App = () => {
           <Route path="/services" element={<ServicesPage />} />
           <Route path="/service-details" element={<ServiceDetailsPage />} />
           <Route path="/contact" element={<ContactPage />} />
-          {/* <Route path="/blog" element={<BlogPage />} />
-          <Route path="/blog-details" element={<BlogDetailsPage />} /> */}
+          <Route path="/blog" element={<Navigate to="/"/>} />
+          <Route path="/blog-details" element={<Navigate to="/"/>} />
           <Route path="/team" element={<TeamPage />} />
           <Route path="/team-details" element={<TeamDetailsPage />} />
           <Route path="/projects" element={<ProjectsPage />} />
