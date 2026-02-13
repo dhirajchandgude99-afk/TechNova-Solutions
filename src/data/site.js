@@ -82,9 +82,9 @@ export const testimonials_3 = [
 ];
 
 export const blogs = [
-    { imgUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=350&fit=crop&q=80&fm=jpg", title: "Everything you need to learn about IT Solution for your Company.", date: "Sat Jan 27 2026 00:16:40 GMT+0000" },
-    { imgUrl: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&h=350&fit=crop&q=80&fm=jpg", title: "New Technology for System Security.", date: "Thu Feb 01 2026 00:16:40 GMT+0000" },
-    { imgUrl: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=350&fit=crop&q=80&fm=jpg", title: "Analytical Solutions for your business.", date: "Thu Jan 27 2026 00:16:40 GMT+0000" },
+    { imgUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=350&fit=crop&q=80&fm=jpg", title: "Everything you need to learn about IT Solution for your Company.", date: "Sat Jan 26 2026 00:16:40 GMT+0000" },
+    { imgUrl: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&h=350&fit=crop&q=80&fm=jpg", title: "New Technology for System Security.", date: "Thu Feb 03 2026 00:16:40 GMT+0000" },
+    { imgUrl: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=350&fit=crop&q=80&fm=jpg", title: "Analytical Solutions for your business.", date: "Thu Jan 25 2026 00:16:40 GMT+0000" },
 ];
 
 export const blogs_2 = [
