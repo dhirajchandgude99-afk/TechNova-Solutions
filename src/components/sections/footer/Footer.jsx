@@ -152,7 +152,7 @@ export default function Footer() {
                     href="https://themeforest.net/user/hurraytheme"
                     target="_blank"
                   >
-                    TechNova Solutions
+                  VibeInScipt Tech Innovation LLP  
                   </a>{" "}
                   {new Date().getFullYear()}. All Rights Reserved
                 </p>
