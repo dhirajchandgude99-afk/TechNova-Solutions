@@ -31,7 +31,7 @@ export default function LatestBlogCard({ data, index }) {
                 <i className="flaticon-calendar" />
               </div>
               <span>
-                <Link to="/">January 1, 2024</Link>
+                <Link to="/">January 1, 2026</Link>
               </span>
             </li>
           </ul>
