@@ -58,12 +58,12 @@ export const prices = [
      { planeName: "Custom", price: 310 } ];
 
 export const testimonials = [
-    { name: "Mayur Dhamne", title: "Client", imgUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d" },
-    { name: "Suraj Kale", title: "Client", imgUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e" },
-    { name: "Rosy Flower Gaggero", title: "Client", imgUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80" },
-    { name: "Marcus Johnson", title: "Client", imgUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e" },
-    { name: "Sarah Williams", title: "Client", imgUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330" },
-    { name: "David Martinez", title: "Client", imgUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d" },
+    { name: "Mayur Dhamne", title: "Client", imgUrl: "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c" },
+    { name: "Suraj Kale", title: "Client", imgUrl: "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f" },
+    { name: "Rosy Flower Gaggero", title: "Client", imgUrl: "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c" },
+    { name: "Marcus Johnson", title: "Client", imgUrl: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5" },
+    { name: "Sarah Williams", title: "Client", imgUrl: "https://images.unsplash.com/photo-1544005313-94ddf0286df2" },
+    { name: "David Martinez", title: "Client", imgUrl: "https://plus.unsplash.com/premium_photo-1689977927774-401b12d137d6" },
 ];
 
 export const testimonials_2 = [
