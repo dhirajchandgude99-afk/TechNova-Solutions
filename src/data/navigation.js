@@ -1,20 +1,7 @@
 export default [
   {
     name: "Home",
-    dropdown: [
-      {
-        name: "Home One",
-        url: "/",
-      },
-      {
-        name: "Home Two",
-        url: "/home-2",
-      },
-      {
-        name: "Home Three",
-        url: "/home-3",
-      },
-    ],
+    url:"/home",
   },
   {
     name: "About",
