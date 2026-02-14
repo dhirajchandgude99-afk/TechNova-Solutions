@@ -20,9 +20,7 @@ export default [
       },
     ],
   },
-  {
-    name: "Pages",
-    dropdown: [
+  
       {
         name: "Team",
         url: "/team",
@@ -40,9 +38,7 @@ export default [
         url: "/testimonials",
       },
     
-    ],
-  },
-  
+   
   {
     name: "Contact",
     url: "/contact",
