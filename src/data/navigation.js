@@ -1,7 +1,7 @@
 export default [
   {
     name: "Home",
-    url:"/home",
+    url:"/",
   },
   {
     name: "About",
@@ -36,40 +36,13 @@ export default [
         url: "/projects",
       },
       {
-        name: "Project Details",
-        url: "/project-details",
-      },
-      {
         name: "Testimonials",
         url: "/testimonials",
       },
-      {
-        name: "Price Plan",
-        url: "/price-plan",
-      },
-      {
-        name: "FAQ",
-        url: "/faqs",
-      },
-      {
-        name: "404",
-        url: "/404",
-      },
+    
     ],
   },
-  {
-    name: "Blog",
-    dropdown: [
-      {
-        name: "Blog",
-        url: "/blog",
-      },
-      {
-        name: "Blog Details",
-        url: "/blog-details",
-      },
-    ],
-  },
+  
   {
     name: "Contact",
     url: "/contact",
