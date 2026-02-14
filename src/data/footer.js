@@ -35,7 +35,7 @@ export const service_links = [
         url: "/service-details",
     },
     {
-        name: "Cloud Deployment",
+        name: "Cloud Services",
         url: "/service-details",
     },
 ];
