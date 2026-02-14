@@ -47,7 +47,11 @@ export default function ServiceInfo() {
                     technical assistance to ensure your business systems operate smoothly at all times.
                     We offer centralized support for all IT-related needs, including troubleshooting,
                     system maintenance, software updates, performance monitoring, and user assistance.
-                    
+                    With a customer-first approach, our service center ensures quick response times,
+                    efficient issue resolution, and proactive system management to minimize downtime
+                    and maximize productivity. Our skilled support team handles everything from minor
+                    technical queries to complex infrastructure challenges, ensuring your technology
+                    remains secure, updated, and optimized.
                   </p>
                   <div className="row">
                     <div className="col-lg-6 mb-4">
@@ -82,29 +86,29 @@ export default function ServiceInfo() {
                     </div>
                   </div>
                   <p>
-                    When an unknown printer took a galley of type and scrambled
-                    it to make a type specimen book. It has leap survive not
-                    only five centurie, but also the leap into electronic
-                    typesetting, remaining essentiall dolor unchange Lorem ipsum
-                    dolor sit amet consec tetur adipis icing elit.
+                    We focus on delivering continuous support, transparent communication,
+                    and dependable service so you can concentrate on your core business 
+                    while we take care of your technology. Whether it’s remote assistance,
+                    scheduled maintenance, or emergency support, our Service Center is
+                    committed to keeping your digital operations running efficiently and
+                    without interruption.
                   </p>
                 </div>
                 <div className="info-part mb-0">
                   <h4>Services All Details</h4>
                   <p className="mb-4">
-                    Cast obscure badger jeep quail congenialy when changed as
-                    cat jeepers affectionate thus facilisi goodness this far
-                    like ipsum dolor sit amet, consectetur adipisicing elits sed
-                    do eiusmod tempo et incididunt et laboret dolore magna
-                    aliqua enim ad minim. Eveniet in vulputate velit esse
-                    molestie consequat, illum dolore eu feugiat nulla facilisis
-                    at seds eros sed accumsan.
+                    We provide comprehensive IT services designed to help businesses grow
+                    through reliable technology solutions. Our offerings include software,
+                    web, and mobile app development, AI-driven solutions, cloud deployment,
+                    database management, and ongoing technical support. We focus on delivering 
+                    secure, scalable, and user-friendly systems that improve efficiency, 
+                    enhance customer experience, and support long-term digital success.
                   </p>
                   <ul className="info-list">
-                    <li>Aliquam Eros Justo, Posuere Loborti Robart That</li>
-                    <li>Fermentum Ullamcorper Viverra Laoreet</li>
-                    <li>Lobortis, Viverra Laoreet Augue Attis Hrculies</li>
-                    <li>Fermentum Ullamcorper Viverra Laoreet</li>
+                    <li>Customized Solutions : Services tailored to meet your specific business needs and goals.</li>
+                    <li>Modern & Scalable Technology : Built using the latest tools to ensure performance, security, and future growth.</li>
+                    <li>Security & Reliability : Strong security practices and stable architectures ensure safe and dependable performance.</li>
+                    <li>End-to-End Support : From planning and development to deployment and maintenance, we provide complete lifecycle support.</li>
                   </ul>
                 </div>
               </div>
