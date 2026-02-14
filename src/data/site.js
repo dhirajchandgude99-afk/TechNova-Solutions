@@ -82,7 +82,7 @@ export const testimonials_3 = [
 ];
 
 export const blogs = [
-    { imgUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=350&fit=crop&q=80&fm=jpg", title: "Everything you need to learn about IT Solution for your Company.", date: "Sat Jan 26 2026 00:16:40 GMT+0000" },
+    { imgUrl: "https://plus.unsplash.com/premium_photo-1663040543387-cb7c78c4f012?w=500&auto=format&fit=crop&q=60&fm=jpg", title: "Everything you need to learn about IT Solution for your Company.", date: "Sat Jan 26 2026 00:16:40 GMT+0000" },
     { imgUrl: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&h=350&fit=crop&q=80&fm=jpg", title: "New Technology for System Security.", date: "Thu Feb 03 2026 00:16:40 GMT+0000" },
     { imgUrl: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=350&fit=crop&q=80&fm=jpg", title: "Analytical Solutions for your business.", date: "Thu Jan 25 2026 00:16:40 GMT+0000" },
 ];
