@@ -99,6 +99,8 @@ export const teams = [
     { title: "Sagar Chandgude", category: "Devops Engineer", imgUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=500&fit=crop&q=80&fm=jpg" },
     { title: "Nikhil Dhage", category: "Backend Developer", imgUrl: "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?w=400&h=500&fit=crop&q=80&fm=jpg" },
     { title: "Kundun Kumar", category: "Full Stack Developer", imgUrl: "https://images.unsplash.com/photo-1581382575275-97901c2635b7?w=400&h=500&fit=crop&q=80&fm=jpg" },
+    { title: "Mahesh Gaikwad", category: "Technical Manager", imgUrl: "https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b?w=400&h=500&fit=crop&q=80&fm=jpg" },
+    { title: "Yash Kalaskar", category: "AI/ML Engineer", imgUrl: "https://images.unsplash.com/flagged/photo-1595514191830-3e96a518989b?w=400&h=500&fit=crop&q=80&fm=jpg" },
 ];
 
 export const faq = [
