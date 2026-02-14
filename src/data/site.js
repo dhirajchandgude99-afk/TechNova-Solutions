@@ -24,12 +24,12 @@ export const services_3 = [
 ];
 
 export const projects = [
-    { imgUrl: "https://images.unsplash.com/photo-1552664730-d307ca884978", title: "Web Development Project", category: "It Management" },
+    { imgUrl: "https://images.unsplash.com/photo-1498050108023-c5249f4df085", title: "Web Development Project", category: "It Management" },
     { imgUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97", title: "Software Development", category: "It Management" },
-    { imgUrl: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d", title: "Mobile App Development", category: "It Management" },
+    { imgUrl: "https://images.unsplash.com/photo-1609921141835-710b7fa6e438", title: "Mobile App Development", category: "It Management" },
     { imgUrl: "https://images.unsplash.com/photo-1519389950473-47ba0277781c", title: "IT Infrastructure", category: "It Management" },
-    { imgUrl: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449", title: "Cloud Solutions", category: "It Management" },
-    { imgUrl: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d", title: "Data Analytics", category: "It Management" },
+    { imgUrl: "https://plus.unsplash.com/premium_photo-1700830193301-99e1c863ee38", title: "Cloud Solutions", category: "It Management" },
+    { imgUrl: "https://images.unsplash.com/photo-1542744173-05336fcc7ad4", title: "Data Analytics", category: "It Management" },
 ];
 
 export const projects_2 = [
