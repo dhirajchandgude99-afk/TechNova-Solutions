@@ -72,7 +72,7 @@ export default function Hero() {
                   />
                 </div>
                 <div className="hero-info-img feature-two">
-                  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop" alt="hero-img" width={200} height={200} />
+                  <img src="https://plus.unsplash.com/premium_photo-1682310075673-b408eb1ca6fd?w=500&auto=format&fit=crop" alt="hero-img" width={200} height={200} />
                 </div>
               </div>
             </div>
