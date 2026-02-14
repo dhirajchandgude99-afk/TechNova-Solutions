@@ -1,5 +1,6 @@
 import ProjectDetailsSidebar from "../../ui/sidebar/ProjectDetailsSidebar";
 
+const images = [];
 export default function ProjectInfo() {
   return (
     <section className="service-details sec-ptb">

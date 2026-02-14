@@ -41,7 +41,7 @@ export default function SidebarNavigation({ toggleSidebar, isOpen }) {
               <img
                 src="/images/logo/site-logo.jpeg"
                 alt="site-logo"
-                height={40}
+                height={80}
                 width={105}
               />
             </Link>
