@@ -9,7 +9,7 @@ export default function ServiceInfo() {
             <div className="service-details-wrapper">
               <div className="feature-img">
                 <img
-                  src="https://images.unsplash.com/photo-1552664730-d307ca884978"
+                  src="https://images.unsplash.com/photo-1551434678-e076c223a692"
                   alt="feature"
                   className="h-100"
                   width={500}
@@ -26,35 +26,28 @@ export default function ServiceInfo() {
                     Service Overview
                   </h2>
                   <p className="mb-4">
-                    Lorem ipsum is simply free text used by copytyping
-                    refreshing. Neque porro est qui dolorem ipsum quia var quaed
-                    inventore veritatis et quasi architecto beatae vitae dicta
-                    sunt explicabo. Aelltes port lacus quis enim var sed
-                    efficitur turpis gilla sed sit amet finibus eros. Lorem
-                    Ipsum is simply dummy text of the been printing and
-                    typesetting industry. Lorem Ipsum has been the ndustry
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make.
+                    We offer a full range of IT services designed to help businesses leverage technology for growth,
+                    efficiency, and competitive advantage. Our team specializes in delivering reliable, scalable,  and secure
+                    digital solutions tailored to meet the unique needs of startups, small businesses, and enterprise clients.
+                    From initial consultation to deployment and ongoing support, we provide end-to-end technology services 
+                    that streamline business operations and improve productivity. Our expertise includes custom software development,
+                    modern and responsive website design, high-performance mobile application development,
+                    and intelligent AI-driven solutions that automate processes and enhance decision-making.
                   </p>
                   <p>
-                    When an unknown printer took a galley of type and scrambled
-                    it to make a type specimen book. It leap survive not only
-                    five centurie, but also the leap into electronic
-                    typesetting, remaining essentiall unchange Lorem ipsum dolor
-                    sit amet consec tetur adipis icing elit.
+                    Beyond development, we provide continuous technical support, maintenance, and upgrades to keep your systems updated
+                    and running efficiently. Our client-focused approach emphasizes clear communication, on-time delivery,
+                    and long-term partnerships, ensuring that your technology infrastructure evolves alongside your business.
                   </p>
                 </div>
                 <div className="info-part">
                   <h4>Service Center</h4>
                   <p className="mb-4">
-                    With over a decade of experience, we’ve established
-                    ourselves as one of the pioneering agencies in the region.
-                    Our small, flexible, agile and design-led structures and
-                    processes allow us to highly responsive and innovative.
-                    We’re made of passionate leaders, strategists, managers,
-                    developers, animators and designers who work together under
-                    one umbrella. We are a digitally-led, service creative
-                    agency. We combine strategy, marketing, design.
+                    Our Service Center is dedicated to providing reliable, fast,and professional and professional
+                    technical assistance to ensure your business systems operate smoothly at all times.
+                    We offer centralized support for all IT-related needs, including troubleshooting,
+                    system maintenance, software updates, performance monitoring, and user assistance.
+                    
                   </p>
                   <div className="row">
                     <div className="col-lg-6 mb-4">
@@ -64,7 +57,7 @@ export default function ServiceInfo() {
                         data-wow-duration="1500ms"
                       >
                         <img
-                          src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=400&fit=crop"
+                          src="https://images.unsplash.com/photo-1587702068694-a909ef4aa346?w=500&auto=format&fit=crop"
                           alt="feature"
                           className="h-100"
                           width={280}
@@ -79,7 +72,7 @@ export default function ServiceInfo() {
                         data-wow-duration="1500ms"
                       >
                         <img
-                          src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=400&fit=crop"
+                          src="https://images.unsplash.com/photo-1579487785973-74d2ca7abdd5?w=500&auto=format&fit=crop"
                           alt="feature"
                           className="h-100"
                           width={280}
