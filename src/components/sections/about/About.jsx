@@ -13,7 +13,7 @@ export default function About() {
                 data-wow-duration="1500ms"
               >
                 <img
-                  src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=500&fit=crop"
+                  src="https://plus.unsplash.com/premium_photo-1661774953651-d4f658a7e34d?w=500&auto=format&fit=crop"
                   alt="about-img"
                   className="h-100"
                   width={350}
@@ -26,7 +26,7 @@ export default function About() {
                 data-wow-duration="1500ms"
               >
                 <img
-                  src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=350&h=400&fit=crop"
+                  src="https://images.unsplash.com/photo-1669023414162-8b0573b9c6b2?w=500&auto=format&fit=crop"
                   alt="about-img"
                   className="h-100"
                   width={280}
