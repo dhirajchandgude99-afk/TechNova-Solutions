@@ -43,7 +43,7 @@ export default function Team() {
                 }}
                 loop={true}
               >
-                {teams?.slice(0, 6).map((item, i) => (
+                {teams?.slice(0, 7).map((item, i) => (
                   <SwiperSlide key={i}>
                     <TeamCard data={item} />
                   </SwiperSlide>
