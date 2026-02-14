@@ -30,17 +30,11 @@ export default [
         url: "/team-details",
       },
       {
-        name: "Projects",
-        url: "/projects",
-      },
-      {
         name: "Testimonials",
         url: "/testimonials",
+      }, 
+      {
+        name: "Contact",
+        url: "/contact",
       },
-    
-   
-  {
-    name: "Contact",
-    url: "/contact",
-  },
 ];
