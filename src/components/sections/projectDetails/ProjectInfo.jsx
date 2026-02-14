@@ -1,12 +1,5 @@
 import ProjectDetailsSidebar from "../../ui/sidebar/ProjectDetailsSidebar";
 
-const images = [
-  "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
-  "https://images.unsplash.com/photo-1552664730-d307ca884978",
-  "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
-  "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
-];
-
 export default function ProjectInfo() {
   return (
     <section className="service-details sec-ptb">
