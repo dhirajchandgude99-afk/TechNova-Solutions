@@ -1,7 +1,7 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import Layout from "./components/layout/Layout";
-import LayoutStyle2 from "./components/layout/LayoutStyle2";
-import LayoutStyle3 from "./components/layout/LayoutStyle3";
+// import LayoutStyle2 from "./components/layout/LayoutStyle2";
+// import LayoutStyle3 from "./components/layout/LayoutStyle3";
 import ScrollTopOnLoad from "./components/ScrollTopOnLoad";
 import NotFoundPage from "./pages/404/NotFoundPage";
 import AboutPage from "./pages/About/AboutPage";
