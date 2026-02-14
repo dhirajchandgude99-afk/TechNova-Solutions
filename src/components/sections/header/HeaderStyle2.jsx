@@ -23,16 +23,7 @@ export default function Header2() {
               <div className="container">
                 <div className="menu-area__inner">
                   <div className="mobile-nav-toggler align-items-center">
-                    <div className="site-ligo">
-                      <Link to="/home-2">
-                        <img
-                          src="/images/logo/tns-logo.jpeg"
-                          alt="TNS-logo"
-                          height={80}
-                          width={105}
-                        />
-                      </Link>
-                    </div>
+                    
                     <i
                       className="fas fa-bars"
                       data-bs-toggle="offcanvas"
@@ -50,14 +41,7 @@ export default function Header2() {
                         <div className="main-header-one__bottom">
                           <div className="main-header-one__bottom-left d-flex">
                             <div className="site-ligo d-flex align-items-center">
-                              <Link to="/home-2">
-                                <img
-                                  src="/images/logo/tns-logo.jpeg"
-                                  alt="TNS-logo"
-                                  height={80}
-                                  width={105}
-                                />
-                              </Link>
+                             
                             </div>
                             {/* navigation part start */}
                             <Navigation />
