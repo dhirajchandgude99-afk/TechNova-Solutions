@@ -2972,11 +2972,11 @@ label {
 	22. Team Details page CSS
 ===============================*/
 .team-fbio-sec .member-fbio-img {
-  border-radius: 200px 0px;
+  border-radius: 50px 0px;
   overflow: hidden;
 }
 .team-fbio-sec .member-fbio-img img {
-  width: 100%;
+  width: 60%;
 }
 .team-fbio-sec .member-fbio {
   margin-left: 76px;
