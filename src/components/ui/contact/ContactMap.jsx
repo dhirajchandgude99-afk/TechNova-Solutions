@@ -6,7 +6,7 @@ export default function ContactMap() {
           <div className="col">
             <div className="contact-map-location">
               <iframe
-                src="https://maps.app.google/Bs56kppWwGf1fTQZA"
+                src="https://maps.app.goo.gl/3sMT1qiUjW5MXRTe6"
                 width="100%"
                 height={650}
                 style={{ border: 0 }}
