@@ -39,7 +39,7 @@ export default function SidebarNavigation({ toggleSidebar, isOpen }) {
           <h5 className="offcanvas-title " id="offcanvasExampleLabel">
             <Link to="/">
               <img
-                src="/images/logo/site-logo.png"
+                src="/images/logo/site-logo.jpeg"
                 alt="site-logo"
                 height={40}
                 width={105}
