@@ -60,10 +60,10 @@ export const prices = [
 export const testimonials = [
     { name: "Mayur Dhamne", imgUrl: "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c" },
     { name: "Suraj Kale", imgUrl: "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f" },
-    { name: "Rosy Flower Gaggero", imgUrl: "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c" },
-    { name: "Marcus Johnson", imgUrl: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5" },
-    { name: "Sarah Williams", imgUrl: "https://images.unsplash.com/photo-1544005313-94ddf0286df2" },
-    { name: "David Martinez", imgUrl: "https://plus.unsplash.com/premium_photo-1689977927774-401b12d137d6" },
+    { name: "Amit Gaikwad", imgUrl: "https://images.unsplash.com/photo-1698510047345-ff32de8a3b74" },
+    { name: "Shankar Shinde", imgUrl: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5" },
+    { name: "Chandrakant Ramtake", imgUrl: "https://images.unsplash.com/photo-1611608822772-43a28a830759" },
+    { name: "Prajwal Khedekar", imgUrl: "https://plus.unsplash.com/premium_photo-1689977927774-401b12d137d6" },
 ];
 
 export const testimonials_2 = [
