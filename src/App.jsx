@@ -7,7 +7,6 @@ import NotFoundPage from "./pages/404/NotFoundPage";
 import AboutPage from "./pages/About/AboutPage";
 import ContactPage from "./pages/Contact/ContactPage";
 import HomePage from "./pages/Home/HomePage";
-import ProjectsPage from "./pages/Projects/ProjectsPage";
 import ServicesPage from "./pages/Service/ServicePage";
 import ServiceDetailsPage from "./pages/ServiceDetails/ServiceDetailsPage";
 import TeamPage from "./pages/Team/TeamPage";
@@ -27,7 +26,7 @@ const App = () => {
           <Route path="/contact" element={<ContactPage />} />         
           <Route path="/team" element={<TeamPage />} />
           <Route path="/team-details" element={<TeamDetailsPage />} />
-          <Route path="/projects" element={<ProjectsPage />} />          
+          <Route path="/projects" element={<Navigate to="/" replace />} />          
           <Route path="/testimonials" element={<TestimonialsPage />} /> 
           <Route path="/home-2" element={<Navigate to="/" replace />} />
           <Route path="/home-3" element={<Navigate to="/" replace />} />
